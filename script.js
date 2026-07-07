@@ -1,9 +1,1 @@
-script.js
-manifest.json
-service-worker.js
-speech.js
-database.js
-export.js
-ui.js
-settings.js
-README.md
+
